@@ -1,0 +1,4 @@
+{
+  "app": "dotnet CdkMissingLib.Infra/bin/Debug/netcoreapp2.1/CdkMissingLib.Infra.dll",
+  "profile": "personal" 
+}
